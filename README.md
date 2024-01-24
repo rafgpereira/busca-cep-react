@@ -12,7 +12,7 @@
 
 ## Acesso
 
-Para acessar a aplicação online clique [aqui]('https://busca-cep-rgpereira.netlify.app').
+Para acessar a aplicação online clique [aqui](https://busca-cep-rgpereira.netlify.app/).
 
 ## Demonstração
 
